@@ -1,0 +1,12 @@
+{
+	"name": "PiHoleSetup",
+	"text": "Install PiHole\\nRequires internet connection",
+	"script": "PiHoleInstall.sh",
+	"args": [],
+	"network": true,
+	"continue": true,
+	"type": "software",
+	"category":"software",
+	"shortDescription":"Installs the PiHole-Setup script. Internet connection required.",
+	"longDescription":"This block allows you to install and boot to the PiHole-Setup script. An internet connection will be required for this to work."
+}
